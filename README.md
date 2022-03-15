@@ -1,1 +1,1 @@
-This is an insstuction
+This is an insstuction for manual projects
